@@ -17,9 +17,10 @@
 	justify-content: center;
 }
 .heading{
-	color: rgb(59, 13, 54);
-	align-self: center;
-	font-size: 70px;
+	color: rgb(0, 0, 0);
+    align-self: center;
+    font-size: 70px;
+    text-shadow: rgb(109, 14, 104) 1px 1px 2px, rgb(50, 9, 83) 0px 0px 1em, rgb(41, 3, 52) 0px 0px 0.2em;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .child {
